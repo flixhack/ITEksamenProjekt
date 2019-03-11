@@ -1,6 +1,6 @@
 
 
-Arduino arduino;
+//Arduino arduino;
 Serial myPort;
 String a;
 void setup() {
